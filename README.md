@@ -46,7 +46,7 @@ Repository Structure
 <p>Class: PPTI 21</p>
 <p>NIM: 2802538441</p>
 
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/angger-dhisma-kusuma-028328302/]
+[![LinkedIn][linkedin-shield][https://www.linkedin.com/in/angger-dhisma-kusuma-028328302/]]
 
 <!-- PROJECT LOGO -->
 <br />
