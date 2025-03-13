@@ -1,4 +1,4 @@
-# **Project Oriented Programming - Binus University**  
+# **Project Oriented Programming**  
 
 This repository contains projects from the **Project Oriented Programming** course at Binus University. Each project in this repository is designed to apply programming concepts through a project-based approach using various technologies and paradigms.  
 
